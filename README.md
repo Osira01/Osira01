@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on I.T projects
 - 📫 How to reach me osytochi@gmail.com
-- 😄 Pronouns: Shhe
+- 😄 Pronouns: She
 - ⚡ Fun fact: ...
 
 <!---
